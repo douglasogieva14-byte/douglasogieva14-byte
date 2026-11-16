@@ -12,13 +12,13 @@ I'm based in Benin City, Nigeria. I combine an accounting foundation with hands-
 
 ## Featured project
 
-### [Car Sales Performance Dashboard](https://github.com/douglasogieva14-byte/car-sales-dashboard)
+### [Car Sales Performance Dashboard](https://github.com/douglasogieva14-byte/CAR-SALES-DASHBOARD)
 
 A four-page Power BI report analysing sales by company, body style, colour and region, with year-over-year DAX measures.
 
 **Result:** revenue up **23.59%** on **24.57%** more cars sold, with average price down only **0.79%**. Growth came from volume, not discounting.
 
-[![Sales Overview](https://raw.githubusercontent.com/douglasogieva14-byte/car-sales-dashboard/main/images/01-sales-overview.png)](https://github.com/douglasogieva14-byte/car-sales-dashboard)
+[![Sales Overview](https://raw.githubusercontent.com/douglasogieva14-byte/CAR-SALES-DASHBOARD/main/images/01-sales-overview.png)](https://github.com/douglasogieva14-byte/CAR-SALES-DASHBOARD)
 
 `Power BI` `DAX` `Data Modelling` `KPI Design`
 
