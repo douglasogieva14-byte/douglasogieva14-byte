@@ -1,6 +1,6 @@
 # I'm Douglas Ogieva
 
-** An Accountant with an informed knowledge and certification in Data Analytics (SQL, Power BI, Excel, Python).** Based in Nigeria. 
+**An Accountant with an informed knowledge and certification in Data Analytics (SQL, Power BI, Excel, Python).** Based in Nigeria. 
 With my accounting foundation combined with hands-on data skills, I help businesses understand how they run and why they succeed, with a particular interest in business operation, financial modelling  and performance reporting.
 
 ## About me
