@@ -6,7 +6,7 @@ I'm based in Benin City, Nigeria. I combine an accounting foundation with hands-
 ## About me
 
 - **Accounting foundation:** B.Sc. Accounting (Second Class Upper), University of Benin, 2019-2023
-- **Data training:** completed a 3-month Data Analyst Programme at Dxpertz Computer Technology (SQL, Power BI, Excel, Python), and currently working through Cisco Networking Academy's Data Analytics and Python programmes
+- **Data training:** completed a 3-month Data Analyst Programme at Dxpertz Computer Technology (SQL, Power BI, Excel, Python), and currently training in Cisco Networking Academy's Data Analytics and Python programmes
 - **Business experience:** co-founder of DOUG AVEIGO, a registered fashion brand where I handled sourcing, logistics, customer relationships and the financial records. That experience is what pushed me towards data collection and management
 - **Building:** iFunction, a data analytics initiative that helps businesses understand and use their data
 
