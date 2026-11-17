@@ -1,16 +1,28 @@
 # Hi, I'm Douglas Ogieva
 
 **Data analyst with an accounting background (SQL, Power BI, Excel, Python).**
-I'm based in Benin City, Nigeria. I combine an accounting foundation with hands-on data skills to help businesses understand how they run and why they succeed, with a particular interest in business operations, finance and performance reporting.
+I'm based in Nigeria. I combine an accounting foundation with hands-on data skills to help businesses understand how they run and why they succeed, with a particular interest in business operations, finance and performance reporting.
 
 ## About me
 
 - **Accounting foundation:** B.Sc. Accounting (Second Class Upper), University of Benin, 2019-2023
-- **Data training:** completed a 3-month Data Analyst Programme at Dxpertz Computer Technology (SQL, Power BI, Excel, Python), and currently working through Cisco Networking Academy's Data Analytics and Python programmes
+- **Data training:** Data Analytics Certificate archived through the  Cisco Networking Academy's Data Analytics and Python programmes(SQL, Power BI, Excel, Python) 
 - **Business experience:** co-founder of DOUG AVEIGO, a registered fashion brand where I handled sourcing, logistics, customer relationships and the financial records. That experience is what pushed me towards data collection and management
 - **Building:** iFunction, a data analytics initiative that helps businesses understand and use their data
 
 ## Featured projects
+
+### [Calzone Sales Analysis (Excel)](https://github.com/douglasogieva14-byte/CALZONE-SALES-EXCEL-DASHBOARD)
+
+An Excel pivot-table dashboard on a year of restaurant orders, with slicers, KPIs, written findings and recommendations.
+
+**Result:** $817,860 from 21,350 orders, with demand peaking at 12 PM and from 5 to 7 PM, Friday the busiest day, and Large sizes at 46% of revenue.
+
+[![Calzone Dashboard](https://raw.githubusercontent.com/douglasogieva14-byte/CALZONE-SALES-EXCEL-DASHBOARD/main/images/02-redesigned-dashboard.png)](https://github.com/douglasogieva14-byte/CALZONE-SALES-EXCEL-DASHBOARD/blob/main/docs/Calzone_Dashboard_Reworked.pdf)
+
+[View the dashboard as a PDF](https://github.com/douglasogieva14-byte/CALZONE-SALES-EXCEL-DASHBOARD/blob/main/docs/Calzone_Dashboard_Reworked.pdf) | [View the full project](https://github.com/douglasogieva14-byte/CALZONE-SALES-EXCEL-DASHBOARD)
+
+`Excel` `Pivot Tables` `Slicers` `Dashboard Design`
 
 ### [Car Sales Performance Dashboard](https://github.com/douglasogieva14-byte/CAR-SALES-DASHBOARD)
 
