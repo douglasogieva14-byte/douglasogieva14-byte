@@ -1,7 +1,7 @@
 # Douglas Ogieva
 
 **Data analyst with an accounting background (SQL, Power BI, Excel, Python).**
-I'm based in Nigeria. I combine an accounting foundation with hands-on data skills to help businesses understand how they run and why they succeed, with a particular interest in business operations, finance and performance reporting.
+Based in Nigeria. I combine an accounting foundation with hands-on data skills to help businesses understand how they run and why they succeed, with a particular interest in business operations, finance and performance reporting.
 
 ## About me
 
